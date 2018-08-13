@@ -1,2 +1,2 @@
 # gfont-installer
-Shell script to install all Google Fonts on OSX.
+Simple shell script to install all Google Fonts on OSX.
